@@ -1,0 +1,16 @@
+SUNNY BOOKSHELF'S TASKS:
+
+Set up streamlit to build app: DONE
+
+Set up Google Books API: DONE
+
+Use pretrained models to:
+    + Identify primary emotions RoBerta: NOT DONE
+
+Feed book dataset into model: NOT DONE
+
+Store mood profiles for all books: NOT DONE
+
+Analyse users' texts and compare against books' mood profiles: NOT DONE
+
+Return top 10 closest matches: NOT DONE
