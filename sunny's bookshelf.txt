@@ -4,13 +4,12 @@ Set up streamlit to build app: DONE
 
 Set up Google Books API: DONE
 
-Use pretrained models to:
-    + Identify primary emotions RoBerta: NOT DONE
+Use pretrained models to analyse emotions: DONE
 
 Feed book dataset into model: NOT DONE
 
-Store mood profiles for all books: NOT DONE
+Create mood profiles for all books by feeding them into this model: NOT DONE
 
-Analyse users' texts and compare against books' mood profiles: NOT DONE
+Analyse users' texts & label and compare that label against books' mood profiles: NOT DONE
 
 Return top 10 closest matches: NOT DONE
